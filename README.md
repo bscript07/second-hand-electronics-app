@@ -1,3 +1,3 @@
 # second-hand-electronics-june-2024
 
-JS Backend @Softuni
+JS Back End @SoftUni
